@@ -1,0 +1,171 @@
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: fit-content;
+}
+
+.header :nth-child(2){
+    margin-left: 45%;
+}
+
+body{
+    width: 900px;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family:'Times New Roman';
+}
+.header{
+    background-color: #59b1ce;
+    padding: 10px;
+    font-size: 9px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 20px;
+    color: white;
+}
+
+.name{
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+img{
+    height: 150px;
+    border-radius: 100px;
+    margin-top: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#about-me p{
+    display: flex;
+    justify-content: center;
+}
+
+.identity{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    color: white;
+    padding: 20px;
+    font-family: 'Times New Roman';
+}
+
+.compliance{
+    color: white;
+    padding: 50px;
+    font-size: 12px;
+    font-family: 'Times New Roman';
+}
+
+#userDescription{
+    display: flex;
+    justify-content: space-between;
+    background-color: #007297;
+}
+
+.services{
+color: #007297;
+}
+
+#hr{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.hr-policy-development{
+ 
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    width: 30%;
+    border-radius: 10px;
+    background-color: #383c3d;
+    color: white;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.conduct-and-compliance{
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    width: 30%;
+    border-radius: 10px;
+    background-color: #383c3d;
+    color: white;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.employee-service{
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    width: 30%;
+    border-radius: 10px;
+    background-color: #383c3d;
+    color: white;
+    font-size: 15px;
+    justify-content: center;
+}
+
+#footer{
+    background-color: #007297;
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+
+.footer{
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
